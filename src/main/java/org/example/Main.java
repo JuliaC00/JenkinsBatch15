@@ -5,7 +5,7 @@ public class Main {
 
         for(int i=0;i<10; i++){
             System.out.println("Hello world! 2");
-            Thread.sleep(2000);
+            Thread.sleep(1000);
         }
     }
 }
